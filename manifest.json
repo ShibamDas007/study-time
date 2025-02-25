@@ -1,8 +1,0 @@
-{
-    "name": "Study Schedule",
-    "short_name": "StudyApp",
-    "start_url": "schedule.html",
-    "display": "standalone",
-    "background_color": "#ffffff",
-    "theme_color": "#007bff"
-}
